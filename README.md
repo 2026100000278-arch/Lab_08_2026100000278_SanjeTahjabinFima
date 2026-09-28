@@ -11,7 +11,7 @@ This repository was created on 13 September 2026 for CSE 1102 Section 11 in orde
 3. **What is GitHub?**
    GitHub is a cloud-based service that hosts Git repositories, providing a web interface and tools for code sharing, collaboration, and project management.
 
-4. **What is Git Bash?**
+4. **What is Git Bash ?**
    Git Bash is an application for Windows environments that provides an emulation layer for a Unix/Bash command-line interface to execute Git commands.
 
 5. **What are the main parts of GitHub?**
